@@ -96,4 +96,5 @@ public class SecondFragment extends Fragment {
         super.onDestroyView();
         binding = null;
     }
+
 }
